@@ -1,0 +1,16 @@
+{
+  "name": "visiosoft/pure-theme",
+  "type": "streams-addon",
+  "authors": [
+    {
+      "name": "Vedat Akdogan",
+      "email": "vedatakdogan@live.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Visiosoft\\PureTheme\\": "src/"
+    }
+  }
+}
